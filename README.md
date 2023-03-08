@@ -1,2 +1,5 @@
 # react-table
-Created with CodeSandbox
+React project - Created with CodeSandbox
+
+## preview link
+- https://1jpbxp.csb.app/
